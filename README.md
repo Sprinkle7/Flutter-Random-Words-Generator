@@ -1,6 +1,4 @@
-# app
-
-A new Flutter project.
+# Flutter-Random-Words-Generator
 
 ## Getting Started
 
